@@ -1,4 +1,5 @@
 ## 📋 <a name="table">Travel UI-UX</a>
+<img width="1898" height="907" alt="Screenshot 2026-02-24 213125" src="https://github.com/user-attachments/assets/f25c6ce0-a9af-4cba-9927-7520ef9a1a01" />
 
 ## <a name="introduction">🤖 Introduction</a>
 
